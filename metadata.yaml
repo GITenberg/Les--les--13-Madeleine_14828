@@ -1,0 +1,37 @@
+_repo: Les--les--13-Madeleine_14828
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Faucher de Saint-Maurice
+    aliases:
+    - De Saint-Maurice, Faucher
+    - Saint-Maurice, Faucher de
+    - Saint-Maurice, Narcisse Henri Édouard Faucher de
+    - Faucher de Saint-Maurice, Narcisse Henri Edouard
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '5708'
+    url: http://www.gutenberg.org/2009/agents/5708
+    wikipedia: http://en.wikipedia.org/wiki/Faucher_de_Saint-Maurice
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2005-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14828'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- History'
+- !lcsh 'Walker, Hovenden, Sir, 1656?-1728'
+- !lcsh 'Saint Lawrence, Gulf of'
+- !lcc 'F1001'
+title: "Les îles\r\nPromenades dans le golfe Saint-Laurent: une partie de la Côte\
+  \ Nord,\r\nl'île aux Oeufs, l'Anticosti, l'île Saint-Paul, l'archipel de la\r\n\
+  Madeleine"
+url: http://www.gutenberg.org/ebooks/14828
